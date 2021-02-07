@@ -1,0 +1,13 @@
+body {
+    background: #cbedb5;
+    padding-top: 25px;
+}
+
+.main-image {
+    max-width: 100%;
+}
+
+.pet-image {
+    width: 30px;
+    height: 30px;
+}
